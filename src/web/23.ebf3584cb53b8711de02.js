@@ -20,7 +20,7 @@
                             svg: "fa-key",
                             list: "/reports/authe"
                         }, {
-                            title: "Authotization",
+                            title: "Authorization",
                             icon: "fa fa-user-shield",
                             icon_color: "#FF6347",
                             list: "/reports/autho"
