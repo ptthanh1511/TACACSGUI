@@ -1,0 +1,19 @@
+TACACSGUI
+Version 1.3
+Updated at 26/12/2023
+Maintainer Freezing
+In this version, we modified:
+- Hide API/Mavis Settings
+- Hide Plugins 
+- Hide API/API Settings/Upgrade
+- Hide API/API Settings/Settings/[Network, High Availability]
+- Hide Reports/Reports/Configuration Manager
+--> It's the first stable version base on container.
+
+Version 1.5
+Updated at 21/06/2024
+Maintainer Freezing
+In this version, we modified:
+- Restore API/API Settings/Upgrade Option
+- Restore Mavis Fuctions in route app file
+--> This's version is better than 1.4
